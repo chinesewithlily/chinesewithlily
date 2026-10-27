@@ -6,7 +6,9 @@
 
 <br/>
 
-<img src="assets/banner.png" width="100%" alt="用英語學中文 · Learn Chinese in English · Every day, a little more Chinese." />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+TC&weight=700&size=54&duration=2200&pause=100000&color=D4AF37&center=true&vCenter=true&repeat=false&width=820&height=80&lines=%E7%94%A8%E8%8B%B1%E8%AA%9E%E5%AD%B8%E4%B8%AD%E6%96%87" alt="用英語學中文" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=500&size=26&duration=2200&pause=100000&color=7BA3D6&center=true&vCenter=true&repeat=false&width=820&height=44&lines=LEARN+CHINESE+IN+ENGLISH" alt="Learn Chinese in English" /><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=400&size=28&duration=2200&pause=100000&color=D98C7E&center=true&vCenter=true&repeat=false&width=820&height=48&lines=Every+day%2C+a+little+more+Chinese." alt="Every day, a little more Chinese." />
 
 <br/><br/>
 
