@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/chinesewithlily">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=34&duration=2800&pause=900&color=C9A227&center=true&vCenter=true&width=520&height=70&lines=Hello+%F0%9F%8C%B8;Nice+to+meet+you%21+%E2%9C%A8;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E8%88%88%E8%AA%8D%E8%AD%98%E4%BD%A0%EF%BC%81;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81" alt="Hello, nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+TC&weight=600&size=34&duration=2800&pause=900&color=C9A227&center=true&vCenter=true&width=520&height=70&lines=Hello%21;Nice+to+meet+you%21;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E8%88%88%E8%AA%8D%E8%AD%98%E4%BD%A0%EF%BC%81;%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%A6%EF%BC%81" alt="Hello! Nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
 </a>
 
 ### 用英語學中文 · Learn Chinese in English
