@@ -11,7 +11,7 @@
 <img src="assets/apps-heading-rose-v3.png" width="100%" alt="My little web apps" />
 
 <a href="https://chinesewithlily.github.io/tarot/"><img src="assets/tarot-v4.png" width="100%" alt="塔羅學中文 Tarot × Chinese — Draw a card, find your words." /></a>
-<a href="https://chinesewithlily.github.io/bazi/"><img src="assets/bazi-v4.png" width="100%" alt="八字學中文 BaZi × Chinese — Eight characters, one story." /></a>
+<a href="https://chinesewithlily.github.io/bazi/"><img src="assets/bazi-ziwei-v5.png" width="100%" alt="八字・紫微學中文 BaZi &amp; Zi Wei × Chinese — Eight characters, twelve palaces, one story." /></a>
 <a href="https://chinesewithlily.github.io/points/"><img src="assets/points-v4.png" width="100%" alt="點點星球 Point Planet — Every point is your light." /></a>
 Every app speaks 中文 · English · 日本語
 
