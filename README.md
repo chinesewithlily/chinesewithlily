@@ -8,7 +8,7 @@
 
 <img src="assets/banner.png" width="100%" alt="用英語學中文 · Learn Chinese in English · Every day, a little more Chinese." />
 
-<br/><br/>
+<img src="assets/apps_heading.png" width="100%" alt="My little web apps" />
 
 <a href="https://chinesewithlily.github.io/tarot/"><img src="assets/tarot.png" width="100%" alt="塔羅學中文 Tarot × Chinese — Draw a card, find your words." /></a>
 <a href="https://chinesewithlily.github.io/bazi/"><img src="assets/bazi.png" width="100%" alt="八字學中文 BaZi × Chinese — Eight characters, one story." /></a>
