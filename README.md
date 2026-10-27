@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/chinesewithlily">
-  <img src="assets/greeting-gold-v2.svg" width="100%" alt="Hello! Nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
+  <img src="assets/greeting-rose-v3.svg" width="100%" alt="Hello! Nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
 </a>
 
 <br/>
 
 <img src="assets/banner.png" width="100%" alt="用英語學中文 · Learn Chinese in English · Every day, a little more Chinese." />
 
-<img src="assets/apps_heading.png" width="100%" alt="My little web apps" />
+<img src="assets/apps-heading-rose-v3.png" width="100%" alt="My little web apps" />
 
 <a href="https://chinesewithlily.github.io/tarot/"><img src="assets/tarot.png" width="100%" alt="塔羅學中文 Tarot × Chinese — Draw a card, find your words." /></a>
 <a href="https://chinesewithlily.github.io/bazi/"><img src="assets/bazi.png" width="100%" alt="八字學中文 BaZi × Chinese — Eight characters, one story." /></a>
