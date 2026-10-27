@@ -6,7 +6,7 @@
 
 ### 用英語學中文 · Learn Chinese in English
 
-Learn real, everyday Taiwanese Mandarin — slowly, gently, with lots of cute pictures.
+Learn Chinese gently, one picture at a time.
 
 </div>
 
