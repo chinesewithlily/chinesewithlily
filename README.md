@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/chinesewithlily">
-  <img src="assets/greeting.svg" width="100%" alt="Hello! Nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
+  <img src="assets/greeting-gold-v2.svg" width="100%" alt="Hello! Nice to meet you! · 你好，很高興認識你！ · はじめまして！" />
 </a>
 
 <br/>
