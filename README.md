@@ -6,7 +6,7 @@
 
 ### 用英語學中文 · Learn Chinese in English
 
-Learn Chinese gently, one picture at a time.
+Every day, a little more Chinese.
 
 </div>
 
